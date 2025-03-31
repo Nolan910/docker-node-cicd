@@ -1,6 +1,6 @@
 # Etapes
 
-Création d'identifiants secrets sur GitHub
+Création d'identifiants secrets sur GitHub DOCKER_USERNAME et DOCKER_PASSWORD
 
 ## étapes docker-publish.yml
 
